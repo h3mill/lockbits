@@ -18,3 +18,32 @@ Copy the `ui` folder, `package.json` and `src-tauri/tauri.conf.json` into it, th
 - Windows: run `npm run build` on a Windows PC.
 - iPhone/iPad: install Xcode, then `npm run tauri ios init` and `npm run tauri ios dev`.
 - Android: install Android Studio, then `npm run tauri android init` and `npm run tauri android dev`.
+
+
+##  Screenshots
+
+### Dashboard
+![Dashboard](screenshots/habittrack.png)
+
+### Habits
+![Habits](screenshots/habits.png)
+
+### Insights
+![Insights](screenshots/insights.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+### Notes
+![Notes](screenshots/notes.png)
+
+### Customization
+![Customization](screenshots/customtheme.png)
+
+### Other Features
+![Backup](screenshots/backup.png)
+![Box Settings](screenshots/boxsetting.png)
+![Chess](screenshots/chess.png)
+![LeetCode](screenshots/leetcode.png)
+![Running Track](screenshots/running%20track.png)
+![User Profile](screenshots/user.png)
