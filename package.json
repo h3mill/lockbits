@@ -1,0 +1,1 @@
+{"name":"lockbits","private":true,"version":"0.2.2","scripts":{"dev":"tauri dev","build":"tauri build","tauri":"tauri"},"devDependencies":{"@tauri-apps/cli":"^2"}}

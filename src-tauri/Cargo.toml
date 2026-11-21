@@ -1,0 +1,11 @@
+[package]
+name = "lockbits"
+version = "0.2.2"
+edition = "2021"
+[lib]
+name = "lockbits_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+[dependencies]
+tauri = { version = "2", features = [] }
